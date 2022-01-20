@@ -1,0 +1,13 @@
+
+Comandos Git Bash
+
+cd C:     ( entrar no diretório ) 
+cd workspace
+cd .....   ( nome do arquivo ) 
+
+ls       ( mostrar lista do diretório)
+
+git status  ( verificar o status do teu arquivo ) 
+
+git commit -m "    ,......"       ( comando commit)
+
