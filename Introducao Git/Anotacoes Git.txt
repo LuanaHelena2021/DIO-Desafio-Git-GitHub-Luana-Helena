@@ -1,0 +1,17 @@
+
+Comandos Git 
+
+cd c: 
+cd workspace 
+cd Dio-desafio-git-github-Luana-Helena
+
+
+ls
+mostrar a lista 
+
+
+git status 
+ver o status do repositorio
+
+
+git commit -m " Inclusao das anotacoes"       - commitar
